@@ -1,0 +1,2 @@
+mai. 27, 2024 10:17:11 PM arquivo_log.Errolog main
+SEVERE: Falha ao abrir o jogo: arquivo não encontrado.
