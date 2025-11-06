@@ -16,3 +16,14 @@
    4 - Um exemplo seria identificar se um e-mail é spam ou não. É simples, rápido e resolve bem problemas que podem ser separados de forma linear.
 
 -----------------------------------------------------------------
+
+
+
+# Atividade_MLP
+
+ Resposta:
+
+  - Primeiro, importamos a biblioteca numpy e criamos a classe MLP, deixando os pesos e os bias iniciados como None.
+    Depois, fizemos a função de treinamento do algoritmo e colocamos os valores nas variáveis. Em seguida, criamos os laços de repetição para treinar o modelo com os dados de entrada. É nessa parte que acontecem os cálculos para conseguir os valores que vão ser usados nos testes.
+    Logo depois, fizemos a parte de teste com a função predict e definimos a função de ativação como sigmoid.
+    Por fim, testamos nosso perceptron usando a tabela verdade do XOR e executamos o treinamento para ver o resultado.
